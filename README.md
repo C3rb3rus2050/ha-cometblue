@@ -6,4 +6,4 @@ Home Assistant Integration for Eurotronics Comet Blue thermostats
 ## Installation
 
 1. Install HACS: https://hacs.xyz
-2. Go to HACS Settings and add Repository as Integration (neffs/ha-cometblue)
+2. Go to HACS Settings and add Repository as Integration (C3rb3rus2050/ha-cometblue)
